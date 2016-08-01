@@ -1,0 +1,9 @@
+node_modules
+temp*
+coverage
+build
+.idea/workspace.xml
+npm-debug.log
+.npmrc
+en-NZ.json
+/dist

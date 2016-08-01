@@ -1,0 +1,4 @@
+instrumentation:
+  extensions:
+    - .jsx
+  excludes: ['**/*-tests.jsx', '**/*-test.jsx', 'testHelpers.jsx']
